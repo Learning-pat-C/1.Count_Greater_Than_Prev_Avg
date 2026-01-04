@@ -1,0 +1,14 @@
+/Users/user/Documents/1. engineer/1. training/DotNet/3. Count_Greater_Than_Prev_Avg/obj/Debug/net10.0/3. Count_Greater_Than_Prev_Avg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/1. engineer/1. training/DotNet/3. Count_Greater_Than_Prev_Avg/obj/Debug/net10.0/3. Count_Greater_Than_Prev_Avg.AssemblyInfoInputs.cache
+/Users/user/Documents/1. engineer/1. training/DotNet/3. Count_Greater_Than_Prev_Avg/obj/Debug/net10.0/3. Count_Greater_Than_Prev_Avg.AssemblyInfo.cs
+/Users/user/Documents/1. engineer/1. training/DotNet/3. Count_Greater_Than_Prev_Avg/obj/Debug/net10.0/3. Count_Greater_Than_Prev_Avg.csproj.CoreCompileInputs.cache
+/Users/user/Documents/1. engineer/1. training/DotNet/3. Count_Greater_Than_Prev_Avg/bin/Debug/net10.0/3. Count_Greater_Than_Prev_Avg
+/Users/user/Documents/1. engineer/1. training/DotNet/3. Count_Greater_Than_Prev_Avg/bin/Debug/net10.0/3. Count_Greater_Than_Prev_Avg.deps.json
+/Users/user/Documents/1. engineer/1. training/DotNet/3. Count_Greater_Than_Prev_Avg/bin/Debug/net10.0/3. Count_Greater_Than_Prev_Avg.runtimeconfig.json
+/Users/user/Documents/1. engineer/1. training/DotNet/3. Count_Greater_Than_Prev_Avg/bin/Debug/net10.0/3. Count_Greater_Than_Prev_Avg.dll
+/Users/user/Documents/1. engineer/1. training/DotNet/3. Count_Greater_Than_Prev_Avg/bin/Debug/net10.0/3. Count_Greater_Than_Prev_Avg.pdb
+/Users/user/Documents/1. engineer/1. training/DotNet/3. Count_Greater_Than_Prev_Avg/obj/Debug/net10.0/3. Count_Greater_Than_Prev_Avg.dll
+/Users/user/Documents/1. engineer/1. training/DotNet/3. Count_Greater_Than_Prev_Avg/obj/Debug/net10.0/refint/3. Count_Greater_Than_Prev_Avg.dll
+/Users/user/Documents/1. engineer/1. training/DotNet/3. Count_Greater_Than_Prev_Avg/obj/Debug/net10.0/3. Count_Greater_Than_Prev_Avg.pdb
+/Users/user/Documents/1. engineer/1. training/DotNet/3. Count_Greater_Than_Prev_Avg/obj/Debug/net10.0/3. Count_Greater_Than_Prev_Avg.genruntimeconfig.cache
+/Users/user/Documents/1. engineer/1. training/DotNet/3. Count_Greater_Than_Prev_Avg/obj/Debug/net10.0/ref/3. Count_Greater_Than_Prev_Avg.dll

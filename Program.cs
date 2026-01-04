@@ -53,6 +53,6 @@ class Solution
 
         int result = Result.countResponseTimeRegressions(responseTimes);
 
-        Console.WriteLine("="+result);
+        Console.WriteLine("result = "+result);
     }
 }
